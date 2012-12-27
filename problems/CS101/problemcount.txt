@@ -1,0 +1,15 @@
+basicio		4
+dicts		9
+exceptions		8
+files		3
+functions		20
+iteration		18
+lists		4
+objects		6
+recursion		7
+sets		6
+slicing		8
+string		6
+strings		4
+tuples		1
+types		9

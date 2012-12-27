@@ -1,0 +1,1 @@
+[('but', 1), ('green', 1), ('i', 1), ('lights,', 1), ('like', 1), ('only', 1), ("they're", 1), ('traffic', 1), ('when', 1)]

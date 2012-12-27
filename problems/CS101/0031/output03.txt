@@ -1,0 +1,3 @@
+Enter an integer:9
+Enter a second integer:3
+2

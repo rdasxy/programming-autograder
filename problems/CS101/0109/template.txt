@@ -1,0 +1,9 @@
+ID: 0109
+Course: CS101
+Title: Function Call
+Keywords: Iteration Functions
+Input: stdin
+Output: stdout
+Upload: example0109.py
+Run: test0109.py
+IOPairs: input0109-01.txt output0109-01.txt input0109-02.txt output0109-02.txt input0109-03.txt output0109-03.txt

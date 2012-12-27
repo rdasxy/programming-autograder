@@ -1,0 +1,1 @@
+Enter two whole numbers: That's not a number!

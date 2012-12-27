@@ -1,0 +1,3 @@
+Enter a string:Hello world
+Enter a second string:Hello there
+d  t  w  h 

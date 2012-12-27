@@ -1,0 +1,7 @@
+Enter the number of rows:Enter the number of columns:   1   2   3
+   2   4   6
+   3   6   9
+   4   8  12
+   5  10  15
+   6  12  18
+   7  14  21

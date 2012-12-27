@@ -1,0 +1,4 @@
+Enter some numbers: 5
+9
+10
+23

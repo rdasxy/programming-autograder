@@ -1,0 +1,4 @@
+Enter some numbers: 3
+9
+23
+190

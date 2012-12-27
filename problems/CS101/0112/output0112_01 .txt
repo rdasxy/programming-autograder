@@ -1,0 +1,1 @@
+{'building': 'gnidliub', 'grill': 'llirg', 'computer': 'retupmoc', 'bridge': 'egdirb', 'car': 'rac', 'fish': 'hsif', 'street': 'teerts', 'keyboard': 'draobyek', 'mouse': 'esuom', 'hat': 'tah'}

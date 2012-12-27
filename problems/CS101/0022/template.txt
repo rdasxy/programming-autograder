@@ -1,0 +1,9 @@
+ID: 0022
+Course: CS101
+Title: Counting Words
+Keywords: Dicts
+Input: stdin
+Output: stdout
+Upload: wordcount.py
+Run: wordcount.py
+IOPairs: input01.txt output01.txt input02.txt output02.txt input03.txt output03.txt input04.txt output04.txt input05.txt output05.txt

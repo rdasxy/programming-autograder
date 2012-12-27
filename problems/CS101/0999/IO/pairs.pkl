@@ -1,0 +1,12 @@
+(lp0
+(S'helloinput.txt'
+p1
+S'hellooutput.txt'
+p2
+tp3
+a(S'helloinput2.txt'
+p4
+S'hellooutput2.txt'
+p5
+tp6
+a.

@@ -1,0 +1,10 @@
+ID: 0111
+Course: CS101
+Title: Word count of file
+Keywords: Files String Slicing
+Input: file
+Output: stdout
+Upload: example0111.py
+Run: test0111.py
+IOPairs: input0111_01.txt output0111_01.txt input0111_02.txt output0111_02.txt input0111_03.txt output0111_03.txt
+

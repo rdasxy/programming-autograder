@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 3.3  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Brian Hare">
+	<META NAME="CREATED" CONTENT="20111222;10502928">
+	<META NAME="CHANGEDBY" CONTENT="Brian Hare">
+	<META NAME="CHANGED" CONTENT="20120105;13575416">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 0.79in }
+		P { margin-bottom: 0.08in }
+		A:link { so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+<P ALIGN=LEFT STYLE="margin-bottom: 0in">One problem we sometimes
+have is taking a large number and adding commas for output; the
+number<BR><FONT FACE="Courier New, monospace"> 12345678 </FONT><BR>for
+example, should print as: <BR><FONT FACE="Courier New, monospace">12,345,678.
+</FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif">Suppose
+we have a string representing an integer &gt; 0. One way of adding
+commas to it for printing is to use a recursive algorithm: </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT FACE="Courier New, monospace">if
+StrN &lt;= 3 digits (characters) long: <BR>	return StrN <BR>Otherwise<BR>
+   Get a 'comma-fied' version of (StrN with last 3 characters
+removed)<BR>    Add a comma<BR>    Add the last 3 digits of StrN<BR> 
+  return the result<BR></FONT><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif">Write
+a recursive function using the above algorithm that takes a string
+representing an integer &gt; 0 and returns a string representing the
+'comma-fied' version of the string. The function should do no input
+or output; its only interaction is through parameters coming in and
+values being returned. You do not need to verify that the parameter
+is a string or that it represents an integer. </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif">Name
+your function AddCommas. Name your file Function.py. </FONT>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><BR>
+</P>
+</BODY>
+</HTML>

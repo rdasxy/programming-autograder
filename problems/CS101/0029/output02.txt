@@ -1,0 +1,3 @@
+Enter a string:13,14,15
+Enter a second string:10,13,14
+0  5

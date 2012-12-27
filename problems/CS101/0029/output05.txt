@@ -1,0 +1,3 @@
+Enter a string:Hello Hello
+Enter a second string:World
+   e  d  H  r  W

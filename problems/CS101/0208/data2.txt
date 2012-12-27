@@ -1,0 +1,13 @@
+(lp0
+I6
+aI2
+aS'hello'
+p1
+aF3.143
+a.(lp0
+I2
+aS'hello'
+p1
+aS'goodbye'
+p2
+a.

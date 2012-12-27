@@ -1,0 +1,11 @@
+ProblemID: 0999
+Course: CS101
+ProblemTitle: Greet the user 10 times 
+ProblemDesc: Desc.txt
+SubmissionFiles: hello.py
+RunFile: hello.py 
+Input: stdin.txt
+Output: stdout.txt
+Compare: stdout.txt
+IOPairs: HelloInput.txt Hellooutput.txt Helloinput2.txt Hellooutput2.txt
+IOPath: IO

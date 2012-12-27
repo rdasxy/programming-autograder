@@ -1,0 +1,9 @@
+ID: 0113
+Course: CS101
+Title: Word Counts
+Keywords: Files Iteration
+Input: stin
+Output: stout
+Upload: solution.py
+Run: solution.py
+IOPairs: input_01.txt output_01.txt input_02.txt output_02.txt input_03.txt output_03.txt

@@ -1,0 +1,9 @@
+ID: 0102
+Course: CS101
+Title: Convert to Float
+Keywords: Types BasicIO
+Input: stdin
+Output: stdout
+Upload: solution.py
+Run: solution.py
+IOPairs: input0102_01.txt output0102_01.txt input0102_02.txt output0102_02.txt input0102_03.txt output0102_03.txt input0102_04.txt output0102_04.txt input0102_05.txt output0102_05.txt

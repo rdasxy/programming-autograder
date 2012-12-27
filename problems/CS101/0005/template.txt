@@ -1,0 +1,9 @@
+ID: 0005
+Course: CS101
+Title: Reverse Sentence
+Keywords: Iteration
+Input: stdin
+Output: stdout
+Upload: reversesentence.py
+Run: reversesentence.py
+IOPairs: input01.txt output01.txt input02.txt output02.txt input03.txt output03.txt input04.txt output04.txt input05.txt output05.txt

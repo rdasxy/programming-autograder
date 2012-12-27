@@ -1,0 +1,17 @@
+(dp0
+S'me'
+p1
+I1
+sS'ours'
+p2
+I4
+sS'theirs'
+p3
+I5
+sS'yours'
+p4
+I2
+sS'mine'
+p5
+I3
+s.

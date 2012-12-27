@@ -1,0 +1,9 @@
+ID: 0101
+Course: CS101
+Title: Divide Two Floats
+Keywords: Types BasicIO
+Input: stdin
+Output: stdout
+Upload: example0101.py
+Run: example0101.py
+IOPairs: input0101-01.txt output0101-01.txt input0101-02.txt output0101-02.txt input0101-03.txt output0101-03.txt

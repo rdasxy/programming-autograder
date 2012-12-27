@@ -1,0 +1,9 @@
+ID: 0103
+Course: CS101
+Title: Output Odd Numbers
+Keywords: Types Iteration
+Input: stdin
+Output: stdout
+Upload: example0103.py
+Run: example0103.py
+IOPairs: input0103_01.txt output0103_01.txt input0103_02.txt output0103_02.txt input0103_03.txt output0103_03.txt

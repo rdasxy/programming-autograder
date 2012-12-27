@@ -1,0 +1,10 @@
+ID: 0115
+Course: CS101
+Title: Greatest Common Denominator of three numbers
+Keywords: Recursion
+Input: stdin
+Output: stdout
+Upload: program0115.py
+Run: program0115.py
+IOPairs: none
+

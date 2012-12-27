@@ -1,0 +1,3 @@
+Enter some numbers: 34
+12
+12

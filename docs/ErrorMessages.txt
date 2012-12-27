@@ -1,0 +1,22 @@
+RESULTS & ERROR MESSAGES: 
+
+Your code will be copied to a special directory and run against input of the standard type. You may assume that input will obey the problem specification. Your code will receive the FIRST of these messages that applies: 
+
+1) SUBMISSION ERROR. You have not submitted the expected file. Your file is not named correctly, you have submitted an executable file instead of source code, etc. File names are NOT case sensitive, but spelling DOES count.
+
+2) TRANSLATION ERROR. The language interpreter/compiler stopped, and reported a problem. This may be a syntax error or other problem with your code. You should have tested your code before uploading it,  so you should never see this error. NOTE: For Python programs, this may also indicate a runtime error (see below). 
+
+3) RUNTIME ERROR. Your source code is a legal program, but the program crashed while running. This is most likely due to a logic error. Depending on the language and the course, this may be any of several things. NOTE: Because Python does all translation at runtime, this is indistinguishable from a Translation Error in Python. Read the error message carefully. 
+
+4) WINDOWS ERROR: Something else has gone wrong that caused your program to stop running. This can also indicate a problem at the server. Check your code carefully for logic errors. If you get this error repeatedly, send your code to your course instructor. 
+
+5) TIME LIMIT EXCEEDED: Your code is expected to run to completion within a definite time limit. Your program had not yet completed when the time limit expired, and was shut down by the system. This is most often due to an infinite loop. If your program is asking for input other than the problem specification, this error can also result as your program waits for input that will never arrive. 
+
+6) EXCESSIVE OUTPUT: Your program ran to completion within the time limit. However, the amount of output it produced was much higher than would be expected for the problem. This most often indicates a logic problem, particularly if an output statement is inside a loop. An off-by-one error producing an extra line of output would not cause this error; "excessive" is defined in megabytes.
+
+7) WRONG ANSWER: Your code ran to completion within the time limit, but the output it produced was not correct. This generally indicates a logic problem, or some aspect of the input data that you did not consider. You may assume that the input for your program will follow the specified format. You should not assume that input is broken up into a particular line-oriented format unless the problem description says so. Any extra output (printing user prompts that the problem doesn't tell you to, for example) will also cause this error. 
+
+8) FORMAT ERROR: Your code ran to completion and produced essentially the correct answer; however, that answer is not formatted correctly. Generally, there should be no leading spaces at the beginning of a line, no trailing spaces at the end of a line, no blank lines in the output, and "separated by whitespace" usually means by a single space character. Again, some problems may specify otherwise, and those descriptions override these general rules. Some problems are all about using spaces to format output correctly, to a certain number of decimal places or aligned a certain way. The problem description will be specific about any special requirements.
+
+9) SUCCESS. Congratulations! Your code ran to completion, and produced the correct output, formatted correctly, within the time limit.
+

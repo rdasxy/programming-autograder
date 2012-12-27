@@ -1,0 +1,10 @@
+ID: 0300
+Course: CS101
+Title: Switch Dictionary Key/Value pairs
+Keywords: Iteration Dicts Lists
+Input: file
+Output: stdout
+Upload: student0300.py
+Run: solution.py
+IOPairs: input1.txt output1.txt input2.txt output2.txt input3.txt output3.txt
+Extras: dict1.pkl dict2.pkl dict3.pkl

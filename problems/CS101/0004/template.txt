@@ -1,0 +1,9 @@
+ID: 0004
+Course: CS101
+Title: Iterative Greetings
+Keywords: Iteration
+Input: stdin
+Output: stdout
+Upload: greeting.py
+Run: greeting.py
+IOPairs: input01.txt output01.txt input02.txt output02.txt input03.txt output03.txt input04.txt output04.txt input05.txt output05.txt

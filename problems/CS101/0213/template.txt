@@ -1,0 +1,14 @@
+ID: 0213
+Course: CS101 
+Title: Raise a KeyError
+Keywords: Exceptions Functions
+Input: stdin 
+Output: stdout 
+Upload: function.py
+Run: solution.py
+IOPairs: input1.txt output1.txt input2.txt output2.txt input3.txt output3.txt input4.txt output4.txt 
+Extras: solution.py data1.txt data2.txt data3.txt data4.txt 
+
+
+
+

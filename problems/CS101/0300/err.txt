@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "solution.py", line 2, in <module>
+    import four
+ImportError: No module named four

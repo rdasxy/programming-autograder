@@ -1,0 +1,2 @@
+Enter some numbers: 6
+12

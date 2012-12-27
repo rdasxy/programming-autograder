@@ -1,0 +1,9 @@
+ID: 0105
+Course: CS101
+Title:  Slicing of Strings
+Keywords: Iteration Slicing Strings
+Input: stdin
+Output: stdout
+Upload: example0105.py
+Run: example0105.py
+IOPairs: input0105-01.txt output0105-01.txt input0105-02.txt output0105-02.txt input0105-03.txt output0105-03.txt

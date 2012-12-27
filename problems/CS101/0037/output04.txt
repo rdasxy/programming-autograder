@@ -1,0 +1,2 @@
+Enter some numbers: 7
+4

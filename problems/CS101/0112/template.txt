@@ -1,0 +1,9 @@
+ID: 0112
+Course: CS101
+Title: Dict Creation
+Keywords: Files Dicts
+Input: input0112.txt
+Output: output0112.txt
+Upload: solution.py
+Run: solution.py
+IOPairs: input0112_01.txt output0112_01.txt input0112_02.txt output0112_02.txt input0112_03.txt output0112_03.txt

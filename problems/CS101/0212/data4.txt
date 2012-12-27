@@ -1,0 +1,14 @@
+(dp0
+S'q'
+p1
+S'quicksand'
+p2
+sS'a'
+p3
+S'this is the last input data.'
+p4
+sS'b'
+p5
+S'banana'
+p6
+s.

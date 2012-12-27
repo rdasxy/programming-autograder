@@ -1,0 +1,3 @@
+How many numbers to shift?3
+Type in a stringhello
+khoor

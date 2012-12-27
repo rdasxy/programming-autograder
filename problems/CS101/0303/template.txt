@@ -1,0 +1,9 @@
+ID: 0303
+Course: CS101
+Title: Backwards Words 
+Keywords: Strings Lists 
+Input: stdin
+Output: stdout
+Upload: solution.py
+Run: solution.py
+IOPairs: input01.txt output1.txt input02.txt output02.txt input03.txt output03.txt

@@ -1,0 +1,6 @@
+Enter some numbers: 1
+1
+1
+1
+1
+1

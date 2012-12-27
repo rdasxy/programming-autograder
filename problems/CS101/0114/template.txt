@@ -1,0 +1,9 @@
+ID: 0114
+Course: CS101
+Title: Cube Roots
+Keywords: Functions
+Input: stdin
+Output: stdout
+Upload: solution.py
+Run: example0114.py
+IOPairs: input0114-01.txt output0114-01.txt input0114-02.txt output0114-02.txt input0114-03.txt output0114-03.txt

@@ -1,0 +1,9 @@
+ID: 0108
+Course: CS101
+Title: String Multiplication
+Keywords: Strings
+Input: stdin
+Output: stdout
+Upload: example0108.py
+Run: example0108.py
+IOPairs: input0108-01.txt output0108-01.txt input0108-02.txt output0108-02.txt input0108-03.txt output0108-03.txt

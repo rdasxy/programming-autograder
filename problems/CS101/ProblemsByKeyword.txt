@@ -1,0 +1,84 @@
+0001:   Types
+0002:   Types
+0003:   Types
+0004:   Iteration
+0005:   Iteration
+0006:   Iteration
+0007:   Iteration
+0008:   Iteration
+0009:   Iteration
+0010:   Iteration
+0011:   Iteration
+0012:   Iteration
+0013:   Iteration
+0014:   Iteration
+0015:   Functions
+0016:   Functions
+0017:   Functions
+0018:   Functions
+0019:   Functions
+0020:   Functions
+0021:   Dicts
+0022:   Dicts
+0023:   Dicts
+0024:   Dicts
+0025:   Dicts Recursion
+0026:   Sets
+0027:   Sets
+0028:   Sets
+0029:   Sets
+0030:   Sets
+0031:   Recursion
+0032:   Recursion
+0033:   Slicing
+0034:   Slicing
+0035:   Slicing
+0036:   Slicing
+0037:   Slicing
+0038:   Exceptions
+0039:   Sets
+0100:   Types BasicIO
+0101:   Types BasicIO
+0102:   Types BasicIO
+0103:   Types Iteration
+0104:   Types BasicIO
+0105:   Iteration Slicing Strings
+0106:   Tuples
+0107:   Types
+0108:   Strings
+0109:   Iteration Functions
+0110:   Functions Dicts Iteration
+0111:   Files String Slicing
+0112:   Files Dicts
+0113:   Files Iteration
+0114:   Functions
+0115:   Recursion
+0201:   String
+0202:   String
+0203:   String
+0204:   String
+0205:   String
+0206:   Functions
+0207:   Functions
+0208:   Functions
+0209:   Functions
+0210:   Functions lists slicing
+0211:   Exceptions
+0212:   Exceptions Functions
+0213:   Exceptions Functions
+0214:   Exceptions Functions
+0215:   Objects
+0216:   Objects
+0217:   Objects
+0218:   Objects
+0219:   Objects
+0220:   Objects
+0221:   Exceptions Exceptions
+0222:   Exceptions
+0223:   Recursion Functions
+0224:   Recursion Functions
+0225:   Recursion Functions
+0300:   Iteration Dicts Lists
+0301:   Iteration Lists Strings
+0302:   Dicts
+0303:   Strings Lists

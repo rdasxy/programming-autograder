@@ -1,0 +1,9 @@
+ID: 0107
+Course: CS101
+Title: Comparison
+Keywords: Types
+Input: stdin
+Output: stdout
+Upload: example0107.py
+Run: example0107.py
+IOPairs: input0107-01.txt output0107-01.txt input0107-02.txt output0107-02.txt input0107-03.txt output0107-03.txt

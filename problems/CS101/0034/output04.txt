@@ -1,0 +1,2 @@
+Enter a string Aloha! Do you find any :?
+Aloha! Do you find any

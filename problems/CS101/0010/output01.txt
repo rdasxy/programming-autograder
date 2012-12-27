@@ -1,0 +1,4 @@
+Enter a number. 5
+23
+95
+383

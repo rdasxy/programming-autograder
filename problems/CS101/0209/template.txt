@@ -1,0 +1,10 @@
+ID: 0209
+Course: CS101 
+Title: Write a function that reports how many times each word occurs in a string.
+Keywords: Functions
+Input: stdin 
+Output: stdout 
+Upload: Function.py 
+Run: solution.py
+IOPairs: input1.txt output1.txt input2.txt output2.txt input3.txt output3.txt input4.txt output4.txt 
+Extras: solution.py data1.txt data2.txt data3.txt data4.txt 

@@ -1,0 +1,4 @@
+yes
+hello
+come on
+no

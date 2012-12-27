@@ -1,0 +1,14 @@
+ID: 0216
+Course: CS101 
+Title: Add a method to a class  
+Keywords: Objects
+Input: stdin 
+Output: stdout 
+Upload: IPClass.py
+Run: solution.py
+IOPairs: input1.txt output1.txt input2.txt output2.txt input3.txt output3.txt input4.txt output4.txt 
+
+
+
+
+

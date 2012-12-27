@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Divider</title>
+</head>
+<body>
+
+<div>
+Create a class called Divider. It should have one method, Divider.divide, that takes two <br /><br />
+integers x and y as parameters. If y isn't 0, it should return the quotient x / y.  If <br /><br />
+y is 0, it should raise a ValueError. <br /><br />
+Test your code with the following - <br /><br />
+from divider import Divider<br /><br />
+
+d = Divider()<br /><br />
+
+for x, y in [(8,4), (4,0)]:<br /><br />
+    try:<br /><br />
+        print "Quotient is %d" % d.divide(x, y)<br /><br />
+    except ValueError:<br /><br />
+        print "Cannot divide by zero"<br /><br />
+
+Name the problem divider.py.<br /><br />
+</div>
+
+</body>
+</html>

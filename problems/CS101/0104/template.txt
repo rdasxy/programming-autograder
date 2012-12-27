@@ -1,0 +1,9 @@
+ID: 0104
+Course: CS101
+Title: Types Slicing
+Keywords: Types BasicIO
+Input: stdin
+Output: stdout
+Upload: example0104.py
+Run: example0104.py
+IOPairs: input0104-01.txt output0104-01.txt input0104-02.txt output0104-02.txt input0104-03.txt output0104-03.txt input0104-04.txt output0104-04.txt

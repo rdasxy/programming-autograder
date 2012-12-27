@@ -1,0 +1,9 @@
+ID: 0106
+Course: CS101
+Title: Tuples
+Keywords: Tuples
+Input: stdin
+Output: stdout
+Upload: example0106.py
+Run: example0106.py
+IOPairs: input0106-01.txt output0106-01.txt input0106-02.txt output0106-02.txt input0106-03.txt output0106-03.txt

@@ -1,0 +1,9 @@
+ID: 0100
+Course: CS101
+Title: Add Two Intergers
+Keywords: Types BasicIO
+Input: stdin
+Output: stdout
+Upload: example0100.py
+Run: example0100.py
+IOPairs: input0100-01.txt output0100-01.txt input0100-02.txt output0100-02.txt input0100-03.txt output0100-03.txt

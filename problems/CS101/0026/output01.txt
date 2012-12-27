@@ -1,0 +1,3 @@
+Enter a set of numbers separated by commas1,2,3,4,5
+Enter a second set of numbers5,6,7,8
+5 

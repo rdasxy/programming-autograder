@@ -1,0 +1,9 @@
+ID: 0301
+Course: CS101
+Title: Unique Words
+Keywords: Iteration Lists Strings
+Input: stdin
+Output: stdout
+Upload: solution.py
+Run: solution.py
+IOPairs: input01.txt output1.txt input02.txt output02.txt input03.txt output03.txt input04.txt output04.txt

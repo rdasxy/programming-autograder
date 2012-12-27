@@ -1,0 +1,16 @@
+(dp0
+S'q'
+p1
+S'quicksand'
+p2
+sS'a'
+p3
+(lp4
+I1
+aI2
+aI3
+asS'b'
+p5
+S'banana'
+p6
+s.

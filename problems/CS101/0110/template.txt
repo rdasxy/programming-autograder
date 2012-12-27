@@ -1,0 +1,9 @@
+ID: 0110
+Course: CS101
+Title: Function Call
+Keywords: Functions Dicts Iteration
+Input: stdin
+Output: stdout
+Upload: example0110.py
+Run: test0110.py
+IOPairs: input0110_01.txt output0110_01.txt input0110_02.txt output0110_02.txt input0110_03.txt output0110_03.txt

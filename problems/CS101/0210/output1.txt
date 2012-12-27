@@ -1,0 +1,1 @@
+['I', 'like', 'traffic', 'lights,', 'but']

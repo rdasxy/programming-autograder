@@ -1,0 +1,10 @@
+ID: 0019
+Course: CS101
+Title: Pay calculation
+Keywords: Functions
+Input: stdin
+Output: stdout
+Upload: solution.py
+Run: solution.py
+IOPairs: input01.txt output01.txt input02.txt output02.txt input03.txt output03.txt input04.txt output04.txt input05.txt output05.txt
+Extras: pay.py
